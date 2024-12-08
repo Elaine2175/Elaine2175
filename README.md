@@ -16,8 +16,12 @@ arquivo em PDF.
 
 
 ## 🚀 Resultados
-O conteudo do testo mostras as possibilidades de uso de IA nas diversas faixas etárias do ser humano.
+O conteudo do testo mostras as possibilidades de uso de IA nas diversas faixas etárias do ser humanos.
+
 
 ## 💭 Reflexão (Opcional)
 Foi interessante, meu primeiro contato com toda tecnologia de IA e pordução de conteudo utilizando informações das mais variadas, eu me incluo na proposição do texto com 53 anos
 e aprendando muito por aqui.
+
+##Texto criado
+[ia generatva e idade.pdf](https://github.com/user-attachments/files/18053366/ia.generatva.e.idade.pdf)
